@@ -9,7 +9,7 @@ setup(
         "PyYAML~=6.0.2",
         "requests~=2.32.3",
         "setuptools~=68.2.0",
-        "wheel~=0.41.2",
+        "wheel>=0.46.2",
         "docker~=7.1.0",
         "GitPython~=3.1.43",
         "refact",
